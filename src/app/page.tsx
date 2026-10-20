@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{maxWidth:720,margin:'64px auto',fontFamily:'system-ui',padding:24}}><h1>Nexus</h1><p>Tenant lifecycle and entitlements control plane.</p><p>V0 API scaffold. Operator console and IS browser login will follow once the IS OIDC client contract is verified.</p></main>}
